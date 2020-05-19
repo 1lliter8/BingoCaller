@@ -56,12 +56,9 @@ Show is used to print stuff in Powershell in case people can't hear over Zoom or
 
 It's honestly pretty unlikely I'll do more on this because part of the charm is that it's held together with the coding equivalent of duct tape, loo roll and hope. But if I do, I'd like to:
 
-* Add a twoLines() method and just tidy up game flow. Didn't 100% know how bingo worked when I 
-	made this. Again, felt it was part of the charm
-* Add a better way to verify remote users' numbers after a bingo. Did it in a pinch by sorting the 
-	list then printing, but Python sorts in place, so it messed up the justCalled() order
-* Load the full 'Millenial bingo lingo' set
-	https://www.dailymail.co.uk/news/article-7915501/Millennials-rewriting-Bingo-lingo-bid-make-game-cool-replacing-terms.html
+* Add a twoLines() method and just tidy up game flow. Didn't 100% know how bingo worked when I made this. Again, felt it was part of the charm
+* Add a better way to verify remote users' numbers after a bingo. Did it in a pinch by sorting the list then printing, but Python sorts in place, so it messed up the justCalled() order
+* Load the full ['Millenial bingo lingo' set](https://www.dailymail.co.uk/news/article-7915501/Millennials-rewriting-Bingo-lingo-bid-make-game-cool-replacing-terms.html)
 * Make the video at the end play smoother. Just did it quickly, not well
 * Use different voices to have different personalities
 * Adapt for a web app
